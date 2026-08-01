@@ -18,4 +18,20 @@ Access to clean drinking water and hygienic restroom facilities in public spaces
 - To reduce the response time between issue reporting and resolution through automated alerts and complaint prioritization.
 - To raise citizen awareness and encourage community participation in maintaining public sanitation infrastructure.
 
+**Project: Fixing Public Restrooms & Drinking Water!**
 
+**What is the big problem?** 
+Have you ever been to a park, bus stand, or market and couldn't find a clean bathroom or safe drinking water? [1] It’s a huge problem in many Indian cities, and it makes things really tough for women, older adults, and people with disabilities [1]. Right now, if a public bathroom is super dirty or a water tap is broken, there’s no easy way for us to complain about it [1]. Because of this, the city officials have no idea what needs to be fixed and things stay broken for a long time [1].
+
+**What is their awesome solution?** 
+The team wants to fix this by building a cool tech-based system (like an app or website) to connect everyday citizens directly with the city officials. 
+
+**How will it work?**
+*   **An App for Citizens:** You will be able to use your phone to find nearby restrooms and water stations, rate how clean they are, and easily report any problems.
+*   **A Dashboard for the City:** City workers will have a special screen (a dashboard) showing them exactly where the complaints are coming from, helping them figure out which spots need to be fixed immediately.
+*   **Smart Tech:** The system will use data analysis—and maybe even Machine Learning (AI)—to spot trends, like finding out which specific bathrooms get the most complaints or when they get the dirtiest .
+
+**Why does this matter? (The Ultimate Goals)** 
+*   **Faster Fixes:** The app will send automated alerts to make sure problems go from "broken" to "fixed" way faster [3].
+*   **Healthier Cities:** By keeping water clean and bathrooms hygienic, it will improve public health .
+*   **Teamwork:** It encourages everyday people to participate in keeping their community's public spaces clean and holds the city accountable for doing their part! .
